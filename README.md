@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Drew
 
 ## 🚀 About Me
-I'm a passionate developer with a love for knowledge. Currently, I'm currently coding a mind blowing project (stay alerted).
+I'm a passionate developer with a love for knowledge. Currently, I'm coding a mind blowing project (stay alerted).
 
 ## 🛠 Skills
 

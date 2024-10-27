@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm DrewVII
+# 👋 Hi there, I'm Drew
 
 ## 🚀 About Me
 I'm a passionate developer with a love for knowledge. Currently, I'm currently coding a mind blowing project (stay alerted).
@@ -165,9 +165,7 @@ src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?logo=adobe%20p
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=DrewVII&show_icons=true&theme=radical)
 
 ## 🎯 Current Projects
-- [Project 1](https://github.com/DrewVII/project1): Short description
-- [Project 2](https://github.com/DrewVII/project2): Short description
-- [Project 3](https://github.com/DrewVII/project3): Short description
+- [Swift](https://github.com/DrewVII/Swift): My first project, a shoot'em right game
 
 ## 📫 Text me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/drewmks/)
@@ -177,4 +175,4 @@ src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?logo=adobe%20p
 
 ---
 
-⭐️ From [DrewVII](https://github.com/DrewVII)
+⭐️ From [Drew](https://github.com/DrewVII)

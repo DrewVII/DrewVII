@@ -159,6 +159,7 @@ src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?logo=adobe%20p
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white"></a>
 <a href="https://www.figma.com" target="_blank"><img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?logo=figma&logoColor=white"></a>
 <a href="https://flutter.dev" target="_blank"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?logo=Flutter&logoColor=white"></a>
+<a href="https://www.arduino.cc/" target="_blank"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
 </p>
 
 ## 📊 GitHub Stats

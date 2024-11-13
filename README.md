@@ -170,6 +170,7 @@ src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?logo=adobe%20p
 
 ## 🎉 Fun Fact
 <p>I can't stop learning, please help me</p>
+<p>I'm also coding for fun, ask me if you want to see the "fun projects"</p>
 
 ---
 

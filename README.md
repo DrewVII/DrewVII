@@ -162,9 +162,6 @@ src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?logo=adobe%20p
 <a href="https://www.arduino.cc/" target="_blank"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
 </p>
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=DrewVII&show_icons=true&theme=radical)
-
 ## 🎯 Current Projects
 - [Swift](https://github.com/DrewVII/Swift): My first project, a shoot'em right game
 

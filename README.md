@@ -166,7 +166,7 @@ src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?logo=adobe%20p
 - [Swift](https://github.com/DrewVII/Swift): My first project, a shoot'em right game
 
 ## 📫 Text me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/drewmks/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrewmks/)
 
 ## 🎉 Fun Fact
 <p>I can't stop learning, please help me</p>
